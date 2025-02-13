@@ -1,1 +1,7 @@
 helllo
+if x == false:
+ print ("item", iskat, "not found")
+else
+ print('adasdasdasd')
+
+
